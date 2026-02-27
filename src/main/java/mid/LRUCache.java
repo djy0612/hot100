@@ -1,7 +1,6 @@
 package main.java.mid;
 
 
-import sun.plugin2.gluegen.runtime.CPU;
 
 import java.util.HashMap;
 import java.util.List;
