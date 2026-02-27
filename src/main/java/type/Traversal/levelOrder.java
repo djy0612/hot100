@@ -1,12 +1,6 @@
 package main.java.type.Traversal;
 
-import com.sun.org.apache.xerces.internal.impl.xpath.regex.REUtil;
-import javafx.scene.transform.Rotate;
-import main.java.easy.postorderTraversal;
-import sun.reflect.generics.tree.Tree;
 
-import javax.swing.*;
-import java.nio.channels.NonWritableChannelException;
 import java.util.*;
 
 public class levelOrder {
