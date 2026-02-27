@@ -1,7 +1,5 @@
 package main.java.hard;
 
-import main.java.mid.lowestCommonAncestor;
-
 public class maxPathSum {
     class TreeNode{
         int val;
